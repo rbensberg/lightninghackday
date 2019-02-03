@@ -1,8 +1,8 @@
-title: Blockchain Career Day
+title: Lightning Hackday Hong Kong
 description: > # this means to ignore newlines until "baseurl:"
-  The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
+  The Lightning Hackday takes place on March 30 & 31 at Bitwork in Kowloon Bay, organized by the Bitcoin Association of Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "cryptocareer.hk" # the base hostname & protocol for your site
+url: "lightning.bitcoin.org.hk" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
