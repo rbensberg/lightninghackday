@@ -1,0 +1,10 @@
+---
+title: Amanda Siew
+name: amanda
+subtitle: Bitcoin Association of Hong Kong
+layout: 2019_default
+img: amanda.png
+thumbnail: amanda_thumb.png
+alt: Picture of Amanda Siew
+description: 
+---

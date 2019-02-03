@@ -1,0 +1,10 @@
+---
+title: Daniel Babbev
+name: danielbabbev
+company: Fair Poker
+layout: 2019_default
+modal-id: 1
+img: danielbabbev.png
+alt: Picture of Daniel Babbev
+link: https://www.fair.poker/
+---

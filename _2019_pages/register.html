@@ -1,0 +1,38 @@
+---
+layout: 2019_default
+permalink: /register
+title: Registration
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+      document.write ('<body style="background: lightgray; background-attachment: fixed;">')
+    </script>
+
+    <div class="page-not-found venue-top">
+    <h1>{{ page.title }}</h1>
+      <p>Thank you for your interest in the Lightning Hackathon! We have various tickets available. You can also always write us at lightning@bitcoin.org.hk with any questions and your generous offers of support!</p>
+    </div>
+    <div class=text-center>All prices in Hong Kong Dollars. All tickets include lunch and dinner. Don't forget to include your email address so we can contact you!</div>
+
+<div class=text-center>
+	<form method="POST" action="https://btcpay.bitcoin.org.hk/apps/3FPFxLs3kAtCW6LssMtdaVRtaMrM/pos">
+  <input type="hidden" name="amount" value="18" />
+  <input type="hidden" name="orderId" value="Developer" />
+  <input type="hidden" name="notificationUrl" value="/success" />
+  <input type="text"   name="email" placeholder="Your Email Address">
+  <button style="height:200px;width:200px" type="submit">Developer Ticket: $18 (lightning only)</button>
+	</form>
+
+	<form method="POST" action="https://btcpay.bitcoin.org.hk/apps/3FPFxLs3kAtCW6LssMtdaVRtaMrM/pos">
+  <input type="hidden" name="amount" value="500" />
+  <input type="hidden" name="orderId" value="Observer" />
+  <input type="hidden" name="notificationUrl" value="/success" />
+  <input type="text"   name="email" placeholder="Your Email Address">
+  <button style="height:200px;width:200px" type="submit">Observer Ticket: $500</button>
+	</form>
+</div>
+<br>
+<br>
+<br>
+<br>
