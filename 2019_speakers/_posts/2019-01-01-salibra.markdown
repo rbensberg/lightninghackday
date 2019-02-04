@@ -1,0 +1,10 @@
+---
+title: Larry Salibra
+name: larrysalibra
+company: NIL
+layout: 2019_default
+modal-id: 1
+img: larrysalibra.png
+alt: Picture of Larry Salibra
+link: https://www.larrysalibra.com/
+---

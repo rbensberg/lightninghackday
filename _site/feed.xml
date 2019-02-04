@@ -1,25 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain Career Day</title>
-    <description>The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
+    <title>Lightning Hackday Hong Kong</title>
+    <description>The Lightning Hackday takes place on March 30 &amp; 31 at Bitwork in Kowloon Bay, organized by the Bitcoin Association of Hong Kong.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Feb 2019 18:20:02 +0800</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 18:20:02 +0800</lastBuildDate>
+    <pubDate>Tue, 05 Feb 2019 01:37:24 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Feb 2019 01:37:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Lightning Labs</title>
+        <title>Larry Salibra</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019_sponsors/2019/01/01/lightning/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019_sponsors/2019/01/01/lightning/</guid>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/salibra/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/salibra/</guid>
         
         
-        <category>2019_sponsors</category>
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Damian Mee</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/mee/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/mee/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Koji Higashi</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/kojihigashi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/kojihigashi/</guid>
+        
+        
+        <category>2019_speakers</category>
         
       </item>
     
@@ -30,6 +56,45 @@
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019_speakers/2019/01/01/babbev/</link>
         <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/babbev/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Adam Mashrique</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2019/01/01/adammashrique/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2019/01/01/adammashrique/</guid>
+        
+        
+        <category>2019_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>TBD</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_sponsors/2018/01/01/TBD/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_sponsors/2018/01/01/TBD/</guid>
+        
+        
+        <category>2019_sponsors</category>
+        
+      </item>
+    
+      <item>
+        <title>TBD</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_speakers/2018/01/01/tbd/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_speakers/2018/01/01/tbd/</guid>
         
         
         <category>2019_speakers</category>
