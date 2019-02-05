@@ -1,7 +1,7 @@
 ---
 title: Larry Salibra
 name: larrysalibra
-company: NIL
+company: @larrysalibra
 layout: 2019_default
 modal-id: 1
 img: larrysalibra.png
