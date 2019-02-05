@@ -1,0 +1,10 @@
+---
+title: Takaya Imai
+name: takayaimai
+company: Frontier Ptnrs
+layout: 2019_default
+modal-id: 1
+img: takayaimai.png
+alt: Picture of Takaya Imai
+link: http://www.frontier-ptnrs.com/
+---
