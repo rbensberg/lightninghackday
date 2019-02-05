@@ -1,7 +1,7 @@
 ---
 title: Adam Mashrique
 name: adammashrique
-company: @sakak_musdom
+company: sakak_musdom
 layout: 2019_default
 modal-id: 1
 img: adammashrique.png
